@@ -8,10 +8,10 @@ First step: Deadline 2.11.19
 2. Schema ready (Arjun and Mihai)
 
 Get started
-npm install
+*npm install*
 
 Development:
-npm run start
+*npm run start*
 
 Production:
-npm run build
+*npm run build*
