@@ -5,5 +5,5 @@
   var WidgetSchema = new Schema({
 	id: Number,
     title:  String,
-    category: String,
+    category: String
   });
