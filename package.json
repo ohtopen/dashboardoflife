@@ -30,6 +30,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "mongoose": "^5.7.8",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   }
