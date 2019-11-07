@@ -1,5 +1,9 @@
 # dashboardoflife
-A have-it-all dashboard
+A have-it-all dashboard- 
+
+Schoolwork for Design of WWW-services course in Aalto University. 
+
+The project has been moved to a different repository and work resumed there.
 
 Deadline for project 20.11.2019
 
