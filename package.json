@@ -30,7 +30,7 @@
     "webpack-dev-server": "^3.11.3"
   },
   "dependencies": {
-    "mongoose": "^5.7.8",
+    "mongoose": "^5.13.15",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-redux": "^7.1.1",
